@@ -15,3 +15,4 @@
 |  474   |  [ones-and-zeroes.c](dynamic_programming/ones-and-zeroes.c)   |   [一和零](https://leetcode-cn.com/problems/ones-and-zeroes.c/)    |  2021-04-20|
 |  392   |  [is-subsequence.c](dynamic_programming/is-subsequence.c)   |   [判断子序列](https://leetcode-cn.com/problems/is-subsequence/)    |  2021-04-20|
 |  322   |  [coin-change.c](dynamic_programming/coin-change.c)   |   [零钱兑换](https://leetcode-cn.com/problems/coin-change/)    |  2021-04-20|
+|  416   |  [partition-equal-subset-sum.c](dynamic_programming/partition-equal-subset-sum.c)   |   [分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)    |  2021-04-20|
