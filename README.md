@@ -10,3 +10,4 @@
 |  303   |  [range-sum-query-immutable.c](dynamic_programming/range-sum-query-immutable.c)   |   [区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/)    | 
 |  746   |  [min-cost-climbing-stairs.c](dynamic_programming/min-cost-climbing-stairs.c)   |   [使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)    | 
 |  1025   |  [divisor-game.c](dynamic_programming/divisor-game.c)   |   [除数博弈](https://leetcode-cn.com/problems/divisor-game/)    | 
+|  面试题 08.01. 三步问题   |  [three-steps-problem-lcci.c](dynamic_programming/three-steps-problem-lcci.c)   |   [除数博弈](https://leetcode-cn.com/problems/three-steps-problem-lcci/)    | 
