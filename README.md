@@ -11,3 +11,4 @@
 |  746   |  [min-cost-climbing-stairs.c](dynamic_programming/min-cost-climbing-stairs.c)   |   [使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)    | 
 |  1025   |  [divisor-game.c](dynamic_programming/divisor-game.c)   |   [除数博弈](https://leetcode-cn.com/problems/divisor-game/)    | 
 |  面试题 08.01. 三步问题   |  [three-steps-problem-lcci.c](dynamic_programming/three-steps-problem-lcci.c)   |   [除数博弈](https://leetcode-cn.com/problems/three-steps-problem-lcci/)    | 
+|  面试题 17.16. 按摩师   |  [the-masseuse-lcci.c](dynamic_programming/the-masseuse-lcci.c)   |   [按摩师](https://leetcode-cn.com/problems/the-masseuse-lcci/)    | 
