@@ -2,7 +2,7 @@
 
 ## dynamic programming (动态规划)
 
-|  #  | 文件名 |题目 | 时间 |
+|  #  | 文件名 | 题目 | 时间 |
 |-----|-----|-----| -----|
 |  53   |  [maximum-subarray.c](dynamic_programming/maximum-subarray.c)   |   [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/submissions/)     | 2021-04-19|
 |  70   |  [climbing-stairs.c](dynamic_programming/climbing-stairs.c)   |   [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)    |  2021-04-19|
