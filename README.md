@@ -12,7 +12,8 @@
 |  1025   |  [divisor-game.c](dynamic_programming/divisor-game.c)   |   [除数博弈](https://leetcode-cn.com/problems/divisor-game/)    |  2021-04-20|
 |  面试题 08.01. 三步问题   |  [three-steps-problem-lcci.c](dynamic_programming/three-steps-problem-lcci.c)   |   [除数博弈](https://leetcode-cn.com/problems/three-steps-problem-lcci/)    |  2021-04-20|
 |  面试题 17.16. 按摩师   |  [the-masseuse-lcci.c](dynamic_programming/the-masseuse-lcci.c)   |   [按摩师](https://leetcode-cn.com/problems/the-masseuse-lcci/)    |  2021-04-20|
-|  474   |  [ones-and-zeroes.c](dynamic_programming/ones-and-zeroes.c)   |   [一和零](https://leetcode-cn.com/problems/ones-and-zeroes.c/)    |  2021-04-20|
+|  474   |  [ones-and-zeroes.c](dynamic_programming/ones-and-zeroes.c)   |   [一和零](https://leetcode-cn.com/problems/ones-and-zeroes/)    |  2021-04-20|
 |  392   |  [is-subsequence.c](dynamic_programming/is-subsequence.c)   |   [判断子序列](https://leetcode-cn.com/problems/is-subsequence/)    |  2021-04-20|
 |  322   |  [coin-change.c](dynamic_programming/coin-change.c)   |   [零钱兑换](https://leetcode-cn.com/problems/coin-change/)    |  2021-04-20|
 |  416   |  [partition-equal-subset-sum.c](dynamic_programming/partition-equal-subset-sum.c)   |   [分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)    |  2021-04-20|
+|  494   |  [target-sum.c](dynamic_programming/target-sum.c)   |   [目标和](https://leetcode-cn.com/problems/target-sum/)    |  2021-04-21|
