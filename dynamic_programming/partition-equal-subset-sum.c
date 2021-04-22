@@ -1,6 +1,3 @@
-//
-// Created by zcsh on 2021/4/19.
-//
 #include "stdio.h"
 #include "math.h"
 #include "memory.h"
