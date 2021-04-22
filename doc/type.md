@@ -12,3 +12,4 @@
 |  #  | 难度 |题目 | 类型 |
 |-----|-----|-----| -----|
 |  322   | 中等 |  [零钱兑换](https://leetcode-cn.com/problems/coin-change/)| |
+|  64   | 中等 |  [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | |
